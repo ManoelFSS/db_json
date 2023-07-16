@@ -153,5 +153,19 @@
           "categoria_id": "acessorios"
         }
 
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "consoles"
+      },
+      {
+        "id": 2,
+        "nome": "games"
+      },
+      {
+        "id": 3,
+        "nome": "acessorios"
+      }
     ]
-  }
+}
